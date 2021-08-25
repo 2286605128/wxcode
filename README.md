@@ -3,7 +3,7 @@
 # ☹️微信好友单删检测丨看看谁把我拉黑了？
 [微信好友单删检测](https://wxcode.vercel.app/)
 
-![](https://github.com/2286605128/wxcode/blob/main/favicon.ico)通过复制特殊代码发送给好友，微信反馈的提示信息来判断。
+![](https://github.com/2286605128/wxcode/blob/main/favicon.ico)原理是：通过复制特殊代码发送给好友，微信反馈的提示信息来判断。（注意：截止至2021.08.25特殊代码已失效）
 
 ☕[Vercel展示地址](https://wxcode-plaidweb.vercel.app/ "微信好友单删检测已部署至Vercel")丨🤞[备用地址](https://plaidweb.top/WebStudio/wxcode/ "微信好友单删检测")
 
