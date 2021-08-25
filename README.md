@@ -1,11 +1,11 @@
 # wxcode
 关于微信的小项目网页
 # ☹️微信好友单删检测丨看看谁把我拉黑了？
-[微信好友单删检测](https://plaidweb.top/search/index.html)
+[微信好友单删检测](https://wxcode.vercel.app/)
 
 ![](https://github.com/2286605128/wxcode/blob/main/favicon.ico)通过复制特殊代码发送给好友，微信反馈的提示信息来判断。
 
-☕[Vercel展示地址](https://search-umber.vercel.app/ "微信好友单删检测已部署至Vercel")丨🤞[备用地址](https://plaidweb.top/WebStudio/wxcode/ "微信好友单删检测")
+☕[Vercel展示地址](https://wxcode-plaidweb.vercel.app/ "微信好友单删检测已部署至Vercel")丨🤞[备用地址](https://plaidweb.top/WebStudio/wxcode/ "微信好友单删检测")
 
 ## 当前版本：v0.1.0 2021.08.25
 ### Fork or Ctrl + C/V ？
